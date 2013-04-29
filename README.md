@@ -24,8 +24,8 @@ administration privligaes).
 
 3. Clone the git repository to a directory on your development machine.
 
-		git clone git://github.com/USNX/webapp-boilerplate.git [target-directory]
-		cd webapp-boilerplate
+		git clone git://github.com/USNX/usnx-boilerplate.git [target-directory]
+		cd usnx-boilerplate
 
 4. Install your project dependencies using the Node Package Manager (NPM) and
 Bower.
